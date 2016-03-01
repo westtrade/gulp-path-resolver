@@ -1,0 +1,28 @@
+{
+  "name": "gulp-path-resolver",
+  "version": "0.0.1",
+  "description": "Gulp plugin resolve path for diffrent package manager, like npm, bower or componentjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec test/*_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/westtrade/gulp-path-resolver.git"
+  },
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "path",
+    "resolve",
+    "npm",
+    "bower",
+    "component"
+  ],
+  "author": "Popov Gena <commerce@westtrade.tk> (http://westtrade.tk/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/westtrade/gulp-path-resolver/issues"
+  },
+  "homepage": "https://github.com/westtrade/gulp-path-resolver#readme"
+}
