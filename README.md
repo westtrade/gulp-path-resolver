@@ -18,7 +18,7 @@ npm i --save-dev gulp-path-resolver
 
 ## Usage
 
-### In your `gulpfile.js`:
+### In your `styles.less`:
 
 
 ```less
@@ -28,6 +28,10 @@ npm i --save-dev gulp-path-resolver
 @import "your_private_repo://bootstrap/less/bootstrap.less";
 
 ```
+
+
+### In your `gulpfile.js`:
+
 
 ```javascript
 var pathResolver = require('gulp-path-resolver');
